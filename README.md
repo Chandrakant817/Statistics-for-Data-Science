@@ -2,7 +2,8 @@
 
 ### Statistics for Data Science and Machine Learning Handwritten Notes
 
-![image](https://user-images.githubusercontent.com/69152112/205438787-cb6cba8e-87c3-4897-84b3-175cc8dcdd0b.png)
+![image](https://user-images.githubusercontent.com/69152112/210152576-1efaa15a-223b-41ce-86b0-cb1a973a67a6.png)
+
 
 ## Topics Covered in Hand Written Notes are:- 
 1. Statistics and its type
