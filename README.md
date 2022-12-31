@@ -68,3 +68,8 @@ i. Min-max scaler
 26. P value
 
 27. Bell curve
+
+### References:
+
+#### 1. https://www.youtube.com/watch?v=zRUliXuwJCQ&list=PLZoTAELRMXVMhVyr3Ri9IQ-t5QPBtxzJO
+#### 2. https://www.youtube.com/watch?v=11unm2hmvOQ&list=PLZoTAELRMXVMgtxAboeAx-D9qbnY94Yay
