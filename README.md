@@ -4,6 +4,31 @@
 
 ![image](https://user-images.githubusercontent.com/69152112/210152576-1efaa15a-223b-41ce-86b0-cb1a973a67a6.png)
 
+## Types of Statistics:
+
+### 1) Descriptive statistics:
+
+It includes analyzing, summarizing, organizing data in the form of numbers and graphs.
+
+Types: 
+Measure of central tendency- Mean, mode, median
+Measure of dispersion- range, variance, standard deviation
+
+Graphs: bar plot, histogram, pie chart, pdf, cdf, normal distribution etc.
+
+Here we take population or sample data and analyze, summarize, explore , visualize the data in the form of number and graphs.
+
+
+### 2) Inferential statistics:
+
+It is a technique wherein we use the data that we have measured to form conclusions.
+
+eg: To get exit poll results during elections, we can take different samples from different locations from entire population , we are taking some sample and make inferences about population and coming to a conclusion like which party will win.
+
+We take a sample from population and then we try to do some kind of test and then we come up with some inference and conclusion for that population.
+
+It includes confidence interval , z- test, t-test, chi-square test etc. 
+
 
 ## Topics Covered in Hand Written Notes are:- 
 1. Statistics and its type
